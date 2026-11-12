@@ -1,0 +1,1074 @@
+# MASTER PROMPT: DESIGN AND DEVELOP A PREMIUM WEBSITE FOR DAQEN CONSTRUCTION
+
+## PROJECT ROLE AND OBJECTIVE
+
+Act as an award-winning website designer, senior UI/UX strategist, frontend engineer, brand identity specialist, and digital marketing expert with experience developing premium websites for construction companies, engineering firms, architecture practices, and property development businesses.
+
+Your assignment is to DESIGN AND BUILD a complete, production-quality, premium, modern, responsive, conversion-focused, ONE-PAGE MULTI-SECTION WEBSITE for **DAQEN CONSTRUCTION**, the construction brand of DAQEN LIMITED, a Nigerian registered company.
+
+This is an actual website development task, not a request for a design proposal, wireframe, static mockup, or demonstration.
+
+You must implement the complete website, including its frontend components, visual design, navigation, responsive behaviour, image galleries, contact mechanisms, and interactive features.
+
+The website must communicate professionalism, engineering competence, trust, quality workmanship, and contemporary construction expertise.
+
+The final product should look like a professionally commissioned website for an established construction and engineering company.
+
+---
+
+# PART 1: REFERENCE MATERIALS AND ASSET ANALYSIS
+
+I have uploaded TWO ZIP ARCHIVES. Both contain essential materials for this project.
+
+You MUST inspect both archives and their contents before commencing website implementation.
+
+Do not ignore, overlook, or substitute the supplied company materials with generic assets.
+
+## ARCHIVE 1: COMPANY BRANDING, CERTIFICATION AND UI REFERENCE
+
+File: Daqen Construction certification, logo, flyer and reference website for UI.zip
+
+The archive contains:
+
+1. logo.jpeg — The original DAQEN company logo.
+2. flyer.jpeg — The official DAQEN CONSTRUCTION promotional flyer containing the company's advertised services and contact details.
+3. CAC Certificate.jpeg — The company's official Corporate Affairs Commission Certificate of Incorporation.
+4. Daqen.PNG — A screenshot of the reference website whose design direction, layout, typography, visual hierarchy, and styling should inspire this website.
+
+### A. Original logo implementation
+
+Use the supplied logo.jpeg as the official company logo.
+
+Important instructions:
+
+- Preserve the original logo artwork, proportions, geometry, and colours.
+- Do not redesign, reinterpret, replace, or generate a different logo.
+- Use the original logo in the navigation bar, footer, and appropriate brand locations.
+- Ensure the logo is sharp, properly sized, and legible.
+- Use an appropriately contrasting background so the navy-blue and gold logo remains visible.
+- If necessary, carefully remove its white background while preserving the original artwork, but do not distort the logo.
+
+### B. Reference website: Daqen.PNG
+
+Study the supplied screenshot carefully.
+
+Use its design language as the primary visual inspiration.
+
+The reference features:
+
+- A sophisticated dark background.
+- An elegant, rounded navigation bar.
+- Large, bold, contemporary sans-serif typography.
+- Strong contrast between headings and backgrounds.
+- Oversized hero typography.
+- Yellow-highlighted keywords and accent elements.
+- Full-width photographic backgrounds.
+- Dark overlays that improve text legibility.
+- Translucent glass-style information cards.
+- Rounded corners and sophisticated content panels.
+- Generous whitespace.
+- A premium editorial presentation.
+- Modern, restrained animations.
+
+Translate these characteristics into a construction and civil engineering website.
+
+IMPORTANT: The reference screenshot belongs to another business. Do not reproduce its content, logo, event information, text, or identity. Borrow only its visual design principles.
+
+### C. Brand colour adaptation
+
+The DAQEN logo and flyer establish a navy-blue and gold brand identity.
+
+Use the following colour direction:
+
+- Primary navy: #101F79
+- Deep navy: #080F35
+- Gold: #E9B52E
+- White: #FFFFFF
+- Soft background: #F5F6FA
+- Charcoal: #171B27
+- Muted grey: #A1A6B3
+
+The website should balance the dark, cinematic character of the reference website with DAQEN's original blue-and-gold corporate identity.
+
+Use deep navy and charcoal for major dark sections, white and light grey for content sections, and gold as a premium accent.
+
+Do not allow green or unrelated colours from the reference website to overpower the company's actual identity.
+
+Gold should be used selectively for highlighted words, buttons, icons, dividers, small labels, and interactive states.
+
+The overall effect should be elegant, architectural, contemporary, and memorable.
+
+### D. CAC Certificate implementation
+
+Use CAC Certificate.jpeg as the official corporate registration document.
+
+The certificate identifies:
+
+- Registered company name: DAQEN LIMITED.
+- Registration number: RC 9397794.
+- Legal status: Private Company Limited by Shares.
+- Registration authority: Corporate Affairs Commission, Nigeria.
+
+Create a professional corporate credibility section that includes the company's registered identity.
+
+Include an elegant certificate preview or thumbnail that visitors can enlarge to inspect.
+
+Do not invent or alter any registration information.
+
+Do not display the certificate's tax identification number or other unnecessary personal or sensitive document details.
+
+---
+
+## ARCHIVE 2: ORIGINAL CONSTRUCTION PROJECT PHOTOGRAPHS
+
+File: Daqen Construction project images.zip
+
+This archive contains 11 original photographs of the company's construction activities and projects.
+
+These photographs are the company's authentic visual portfolio.
+
+MANDATORY INSTRUCTIONS:
+
+1. Extract and inspect all 11 photographs.
+2. Use the actual supplied images throughout the website.
+3. Do not replace them with generic construction stock photography.
+4. Do not use AI-generated buildings as substitutes for the company's real projects.
+5. Preserve the authenticity of the photographs.
+6. Use the highest available image quality.
+7. Optimise images for web performance without visibly compromising quality.
+8. Apply tasteful cropping and consistent image ratios.
+9. Avoid stretching, distorting, or excessively editing the images.
+10. Where several photographs depict the same project, group them together where appropriate.
+
+The photographs show actual construction activities, including:
+
+- Foundation and substructure works.
+- Excavation and site preparation.
+- Blockwork and masonry.
+- Structural building development.
+- Reinforced concrete and building construction activities.
+- Building projects at different stages of development.
+- Building exteriors and construction progress.
+
+Use visual inspection to determine which photographs best represent each category.
+
+Do not invent project names, client identities, exact project locations, construction values, completion dates, or project specifications.
+
+Where a project name is unavailable, use descriptive captions such as:
+
+- Residential Building Development.
+- Foundation and Substructure Works.
+- Building Construction in Progress.
+- Masonry and Blockwork.
+- Structural Construction.
+- Building Development Project.
+
+If the project images depict different stages of the same project, group them in a single project gallery.
+
+The portfolio must look authentic, organised, and professionally curated.
+
+---
+
+# PART 2: COMPANY IDENTITY AND BUSINESS INFORMATION
+
+Use the following information as the authoritative content foundation for the website.
+
+## Official brand name
+
+DAQEN CONSTRUCTION
+
+Registered company name: DAQEN LIMITED.
+
+Registration number: RC 9397794.
+
+Industry: Construction, Civil Engineering, Building Development and Related Technical Services.
+
+Country: Nigeria.
+
+## Company overview
+
+Daqen Construction is a Nigerian construction and civil engineering company offering building development, structural consultation, architectural and engineering drawings, infrastructure construction, interior design, and other construction-related services.
+
+The company works to help individuals, homeowners, property developers, businesses, and organisations translate their construction ideas into practical building and development solutions.
+
+Its service coverage extends across several states in South-Eastern and South-South Nigeria, including Port Harcourt, Owerri, Imo, Abia, Anambra, Enugu, and Ebonyi.
+
+Position the company as a dependable construction partner capable of supporting clients through different aspects of building development, design, engineering consultation, and construction.
+
+## Recommended brand positioning
+
+**Building Your Vision. Engineering Your Future.**
+
+Supporting message:
+
+Professional Construction, Civil Engineering, Architectural Design and Building Development Solutions.
+
+The website should consistently communicate:
+
+- Quality workmanship.
+- Engineering competence.
+- Professionalism.
+- Attention to detail.
+- Practical construction solutions.
+- Client-focused service.
+- Dependability.
+- Commitment to delivering functional and durable structures.
+
+Do not invent years of experience, project statistics, professional memberships, awards, accreditations, or client endorsements.
+
+---
+
+# PART 3: SERVICES AND SERVICE DESCRIPTIONS
+
+Create a visually sophisticated services section with attractive cards, relevant icons, short descriptions, and clear service categories.
+
+Use the following services, extracted from the company's official promotional flyer and supplied business information.
+
+### 1. Building Construction and Development
+
+Building construction and property development services for residential, commercial, and other building projects.
+
+Present the company as a construction partner for clients seeking support with building development from initial planning through construction.
+
+### 2. Structural Drawings and Analysis
+
+Structural drawing and analysis services for building and construction projects.
+
+Explain the importance of structural planning, technical drawings, and appropriate engineering considerations without making unsupported professional certification claims.
+
+### 3. Architectural, Mechanical and Electrical Drawings
+
+Drawing and design documentation services covering architectural, mechanical, and electrical aspects of building projects.
+
+Present these as coordinated technical drawing services.
+
+### 4. Structural Consultation
+
+Construction and structural consultation services designed to help clients understand project requirements, structural considerations, and development needs.
+
+### 5. Infrastructure Construction
+
+Infrastructure construction and related civil engineering works.
+
+Present this as part of the company's wider construction and engineering service offering.
+
+### 6. Residential Building and Complex Development
+
+Development of residential buildings and complexes for private clients and property developers.
+
+Use appropriate residential architecture and actual construction photographs.
+
+### 7. Interior Design
+
+Interior design services for building spaces, with an emphasis on functionality, aesthetics, and practical use of space.
+
+### 8. Solar Installation
+
+Solar installation services as listed on the company's promotional flyer.
+
+Present this as an additional service within the company's wider building and infrastructure offering.
+
+IMPORTANT:
+
+All these services must be represented accurately.
+
+Do not claim specialised technical capabilities, licences, certifications, or engineering approvals that have not been provided.
+
+---
+
+# PART 4: WEBSITE DESIGN SYSTEM
+
+Develop a consistent design system before implementing the website.
+
+## Typography
+
+Study the supplied reference screenshot and reproduce its typography character.
+
+Use a contemporary geometric sans-serif typeface.
+
+Recommended font combination:
+
+- Headings: Manrope.
+- Body text: Inter.
+- Navigation and small labels: Inter with appropriate letter spacing.
+
+Use Google Fonts if available.
+
+Typography should feature:
+
+- Large, bold hero headings.
+- Strong headline hierarchy.
+- Carefully controlled line lengths.
+- Generous line spacing.
+- High contrast between heading and body text.
+- Elegant uppercase eyebrow labels.
+- Gold-highlighted headline phrases.
+
+Avoid generic, dated construction website typography.
+
+## Visual style
+
+The overall visual direction must be:
+
+- Premium.
+- Architectural.
+- Minimalist.
+- Contemporary.
+- Corporate.
+- Cinematic.
+- Editorial.
+- Trust-building.
+
+Use:
+
+- Large image compositions.
+- Sophisticated image overlays.
+- Rounded cards and panels.
+- Subtle borders.
+- Soft shadows.
+- Controlled gradients.
+- Glassmorphism in selected areas.
+- Generous spacing.
+- Elegant transitions.
+- Asymmetrical image and text compositions.
+
+Avoid:
+
+- Excessive gradients.
+- Cartoon construction illustrations.
+- Cheap-looking templates.
+- Oversized decorative icons.
+- Excessive animations.
+- Cluttered layouts.
+- Repeated identical card designs throughout the page.
+
+The website should look custom-designed rather than template-generated.
+
+---
+
+# PART 5: COMPLETE ONE-PAGE WEBSITE STRUCTURE
+
+Build the following sections in the specified order.
+
+## SECTION 1: STICKY NAVIGATION
+
+Create a premium floating or rounded navigation bar inspired by the reference website.
+
+Desktop navigation:
+
+- Original DAQEN logo on the left.
+- Home.
+- About Us.
+- Our Services.
+- Projects.
+- Why Choose Us.
+- Contact.
+
+Include a prominent gold-accented CTA button:
+
+"START A PROJECT"
+
+Navigation requirements:
+
+- Sticky navigation on scroll.
+- Smooth scrolling to the relevant sections.
+- Active navigation state.
+- Elegant hover effects.
+- Responsive mobile navigation.
+- Mobile hamburger menu with a polished opening and closing animation.
+
+Ensure the navigation remains readable against both light and dark sections.
+
+## SECTION 2: HERO / HOMEPAGE INTRODUCTION
+
+This is the most visually important section.
+
+Create an impressive, cinematic hero section inspired by the supplied reference screenshot.
+
+Use an actual construction photograph from the project archive as the primary hero background or image composition.
+
+Choose the strongest wide-angle construction photograph available.
+
+If necessary, use a tasteful dark navy overlay to ensure text readability.
+
+The hero should occupy approximately 85–100vh on desktop, while adapting naturally to mobile screens.
+
+Add a small uppercase eyebrow heading:
+
+"CONSTRUCTION | CIVIL ENGINEERING | BUILDING DEVELOPMENT"
+
+Main headline:
+
+"Building Your Vision. Engineering Your Future."
+
+Highlight "Engineering Your Future" in gold.
+
+Supporting text:
+
+"From structural drawings and engineering consultation to building construction and property development, Daqen Construction delivers practical solutions that turn your ideas into lasting structures."
+
+Primary CTA:
+
+"DISCUSS YOUR PROJECT"
+
+Secondary CTA:
+
+"EXPLORE OUR WORK"
+
+Include a subtle scroll indicator.
+
+Add a sophisticated floating information panel or glass-style card with a concise brand statement:
+
+"Your Vision. Our Expertise. Lasting Structures."
+
+The hero should immediately communicate the company's construction and engineering identity.
+
+Do not use an unrelated stock image when an actual project photograph is available.
+
+## SECTION 3: COMPANY INTRODUCTION / ABOUT US
+
+Use an elegant split-screen composition.
+
+One side should contain a carefully selected actual construction photograph.
+
+The other side should contain the company introduction.
+
+Eyebrow:
+
+"WHO WE ARE"
+
+Heading:
+
+"Building with Purpose. Creating Lasting Value."
+
+Suggested copy:
+
+"Daqen Construction is a Nigerian construction and civil engineering company committed to providing building development, technical drawing, structural consultation, and related construction solutions.
+
+We work with individuals, homeowners, businesses, and property developers to transform construction ideas into practical and functional structures.
+
+With services extending across South-Eastern and South-South Nigeria, we are focused on quality workmanship, professional service, and building solutions that create lasting value."
+
+Add a registration information element:
+
+"REGISTERED IN NIGERIA"
+
+"DAQEN LIMITED | RC 9397794"
+
+Include a small CTA:
+
+"LEARN MORE ABOUT OUR APPROACH"
+
+Keep this section elegant and concise.
+
+## SECTION 4: OUR SERVICES
+
+Eyebrow:
+
+"WHAT WE DO"
+
+Main heading:
+
+"Comprehensive Construction & Engineering Solutions"
+
+Supporting description:
+
+"From technical drawings and engineering consultation to construction and building development, we provide services designed around your project requirements."
+
+Create eight visually distinct service cards:
+
+1. Building Construction & Development.
+2. Structural Drawings & Analysis.
+3. Architectural, Mechanical & Electrical Drawings.
+4. Structural Consultation.
+5. Infrastructure Construction.
+6. Residential Buildings & Complexes.
+7. Interior Design.
+8. Solar Installation.
+
+Each card should have:
+
+- An appropriate Lucide icon.
+- A clear service title.
+- A concise, professionally written description.
+- Subtle hover interaction.
+- A small arrow or enquiry link.
+
+Use a refined grid layout.
+
+On desktop, use a balanced multi-column layout. On mobile, use a single-column or carefully optimised two-column arrangement.
+
+Do not use emoji as service icons.
+
+Include a CTA below the grid:
+
+"NEED HELP WITH A PROJECT? LET'S TALK."
+
+## SECTION 5: PROJECT PORTFOLIO
+
+Eyebrow:
+
+"OUR PROJECTS"
+
+Main heading:
+
+"Real Work. Practical Solutions. Lasting Structures."
+
+Supporting copy:
+
+"Explore selected construction activities and building development projects undertaken by Daqen Construction."
+
+This section must prominently showcase the 11 actual project photographs supplied in the project archive.
+
+Use a premium portfolio gallery with:
+
+- Large, high-quality project images.
+- Consistent image ratios.
+- Attractive hover overlays.
+- Descriptive project labels.
+- Clean visual spacing.
+- Responsive layouts.
+- Image enlargement/lightbox functionality.
+
+Organise the photographs into suitable categories based on what the images actually show:
+
+- Foundation & Substructure.
+- Building Construction.
+- Structural & Masonry Works.
+- Residential Development.
+- Construction Progress.
+
+Only use categories supported by the photographs.
+
+Where the images cannot confidently be assigned to a distinct project or category, use a general "Construction Portfolio" category.
+
+Include working category filters if the images support meaningful categorisation.
+
+Clicking any photograph should open a larger lightbox or gallery view.
+
+Allow users to navigate between images without leaving the page.
+
+IMPORTANT PORTFOLIO RULES:
+
+- Use the original project photographs.
+- Do not use stock photos.
+- Do not invent project titles or client names.
+- Do not invent project locations.
+- Do not claim every photographed building is completed.
+- Label ongoing work appropriately.
+- Do not omit photographs simply because they are not professionally photographed.
+- Arrange the photographs creatively to produce a polished visual portfolio.
+
+The portfolio must be one of the strongest visual sections of the website.
+
+## SECTION 6: WHY CHOOSE DAQEN CONSTRUCTION
+
+Eyebrow:
+
+"THE DAQEN ADVANTAGE"
+
+Heading:
+
+"Your Construction Project Deserves a Dependable Partner."
+
+Create a visually compelling section that communicates the company's value proposition.
+
+Include these six principles:
+
+1. Quality-Focused Workmanship.
+2. Comprehensive Construction Services.
+3. Technical and Engineering-Oriented Approach.
+4. Client-Focused Project Solutions.
+5. Attention to Construction Details.
+6. Regional Service Coverage.
+
+Write short, credible descriptions for each.
+
+Do not manufacture numerical statistics or unsupported performance guarantees.
+
+Use a premium dark navy background with white text and gold accents.
+
+Use an elegant grid or asymmetrical composition.
+
+## SECTION 7: OUR APPROACH / HOW WE WORK
+
+Create a clean process section that helps prospective clients understand how to engage the company.
+
+Heading:
+
+"From Your Idea to a Built Reality."
+
+Use five stages:
+
+01 — Initial Consultation
+
+Understanding the client's requirements, project ideas, and objectives.
+
+02 — Project Planning
+
+Discussing project scope, relevant technical requirements, and the appropriate development approach.
+
+03 — Design & Drawings
+
+Addressing the relevant architectural and technical drawing requirements.
+
+04 — Construction & Execution
+
+Carrying out the agreed construction activities based on the project scope.
+
+05 — Project Review & Handover
+
+Reviewing the completed scope of work and addressing the handover requirements.
+
+Present these as the company's recommended client engagement process, not as a verified guarantee that every project follows an identical procedure.
+
+Use a horizontal timeline on desktop and a vertical timeline on mobile.
+
+## SECTION 8: CORPORATE CREDIBILITY / REGISTRATION
+
+Create an elegant trust-building section.
+
+Heading:
+
+"Registered. Accountable. Professionally Positioned."
+
+Display:
+
+- Company name: DAQEN LIMITED.
+- Trading brand: DAQEN CONSTRUCTION.
+- CAC Registration Number: RC 9397794.
+- Registration authority: Corporate Affairs Commission, Nigeria.
+- Legal status: Private Company Limited by Shares.
+
+Use the actual CAC certificate supplied in the archive.
+
+Show a clear thumbnail with a button labelled:
+
+"VIEW CERTIFICATE"
+
+Clicking it should open an enlarged image in a modal/lightbox.
+
+Preserve the document's authenticity.
+
+Do not alter the certificate.
+
+## SECTION 9: SERVICE AREAS
+
+Eyebrow:
+
+"WHERE WE WORK"
+
+Heading:
+
+"Serving Clients Across South-Eastern & South-South Nigeria."
+
+Suggested copy:
+
+"Daqen Construction provides construction and building development services across multiple locations in Nigeria, supporting clients with a range of building and civil engineering requirements."
+
+Display the known service areas:
+
+- Port Harcourt, Rivers State.
+- Owerri, Imo State.
+- Abia State.
+- Anambra State.
+- Enugu State.
+- Ebonyi State.
+
+Use an elegant regional coverage visual, restrained map graphic, or location cards.
+
+Do not invent branch offices or physical offices in every listed state.
+
+IMPORTANT ADDRESS INSTRUCTION:
+
+The supplied Google Business Profile contains a location description referencing both Obowo, Imo State, and Port Harcourt, Rivers State.
+
+Do not invent or incorrectly consolidate these into a single physical office address.
+
+For now, communicate the company's regional service coverage without publishing an unverified full office address.
+
+The exact primary office location can be added once confirmed.
+
+## SECTION 10: TESTIMONIALS
+
+Eyebrow:
+
+"CLIENT FEEDBACK"
+
+Heading:
+
+"Trusted Through the Experience of Our Clients."
+
+Use the actual Google review provided:
+
+"Thank you for the amazing work you did for my brother."
+
+Reviewer: Winner Okeahialam.
+
+Source: Google Business Profile.
+
+Rating: 5 out of 5 stars.
+
+Clearly indicate that this is a Google customer review.
+
+The business currently has one published Google review.
+
+Do not create additional fictional testimonials, reviewer photographs, or fabricated customer identities.
+
+The section can be designed to accommodate more verified reviews in the future.
+
+## SECTION 11: CONTACT / PROJECT ENQUIRY
+
+This section should be conversion-focused and visually prominent.
+
+Use a dark navy or deep charcoal background with gold highlights.
+
+Eyebrow:
+
+"LET'S BUILD SOMETHING GREAT"
+
+Main heading:
+
+"Have a Project in Mind? Let's Talk."
+
+Supporting copy:
+
+"Whether you are planning a residential development, need technical drawings, require structural consultation, or have a construction project in mind, Daqen Construction is ready to discuss your requirements."
+
+### Contact information
+
+Primary telephone:
+
+0706 074 1211
+
+Additional telephone contacts:
+
+0813 705 5360
+
+0814 817 0258
+
+WhatsApp contacts:
+
+0706 074 1211
+
+0811 632 2348
+
+Email:
+
+Benignuschiedozie2016@gmail.com
+
+Google Business Profile:
+
+https://www.google.com/maps/place/DAQEN+CONSTRUCTION/@5.5531148,7.3082623,17z/
+
+Facebook:
+
+https://web.facebook.com/p/DAQEN-construction-61575741302615/
+
+### Contact form
+
+Build a working, professionally styled project enquiry form with:
+
+- Full Name.
+- Phone Number.
+- Email Address.
+- Service Required.
+- Project Location.
+- Project Description.
+- Submit Enquiry button.
+
+Service dropdown options should correspond to the eight services listed earlier.
+
+Implement proper validation and clear success/error feedback.
+
+Do not present a form as successfully submitted unless an actual backend or supported form integration has processed it.
+
+If no backend is configured, implement a working WhatsApp enquiry fallback that collects the form details and opens WhatsApp with a prefilled message addressed to the primary WhatsApp contact, +2347060741211.
+
+Provide a direct WhatsApp contact button.
+
+Provide clickable telephone links using tel: links.
+
+Provide a clickable email link using a mailto: link.
+
+All contact actions must work on desktop and mobile.
+
+## SECTION 12: FOOTER
+
+Create a refined corporate footer containing:
+
+- Original DAQEN logo.
+- Brief company introduction.
+- Navigation links.
+- Services links.
+- Contact information.
+- Facebook link.
+- Google Maps link.
+- Copyright notice.
+
+Copyright:
+
+"© 2026 Daqen Construction. All Rights Reserved."
+
+Display the legal company identity:
+
+"DAQEN LIMITED | RC 9397794"
+
+Use a sophisticated dark footer with restrained gold accents.
+
+---
+
+# PART 6: INTERACTION AND FUNCTIONALITY REQUIREMENTS
+
+The website must be fully functional.
+
+Implement the following:
+
+1. Sticky navigation.
+2. Smooth section scrolling.
+3. Responsive mobile menu.
+4. Working CTA buttons.
+5. Clickable telephone numbers.
+6. Functional WhatsApp enquiry links.
+7. Clickable email address.
+8. Contact form validation.
+9. WhatsApp prefilled enquiry fallback.
+10. Portfolio category filters where applicable.
+11. Image lightbox/gallery.
+12. Certificate lightbox.
+13. Subtle hover effects.
+14. Smooth entrance animations.
+15. Back-to-top functionality.
+16. Proper active states for interactive elements.
+
+Animations must be tasteful and performance-conscious.
+
+Respect reduced-motion accessibility preferences.
+
+Do not add buttons that look interactive but have no action.
+
+---
+
+# PART 7: RESPONSIVE DESIGN
+
+The website must be developed mobile-first and fully responsive.
+
+Optimise for:
+
+- Large desktop screens.
+- Standard desktop screens.
+- Laptops.
+- Tablets.
+- Smartphones.
+
+Pay special attention to Nigerian mobile users who may access the website through mobile data and lower-powered devices.
+
+Requirements:
+
+- No horizontal overflow.
+- Proper mobile image cropping.
+- Readable text.
+- Comfortable touch targets.
+- Properly scaled headings.
+- Functional mobile navigation.
+- Optimised loading.
+- Proper spacing on small screens.
+- Responsive project gallery.
+- Mobile-friendly contact form.
+
+The mobile experience must be as polished as the desktop version.
+
+---
+
+# PART 8: SEO AND DIGITAL MARKETING
+
+Build the website with proper search engine optimisation.
+
+Suggested SEO title:
+
+Daqen Construction | Building Construction & Civil Engineering Nigeria
+
+Suggested meta description:
+
+Daqen Construction provides building construction, civil engineering, structural drawings, architectural and engineering design, infrastructure development, and property construction services across Port Harcourt, Owerri, Imo, Abia, Anambra, Enugu and Ebonyi.
+
+Implement:
+
+- Proper semantic HTML.
+- One clear H1.
+- Logical H2 and H3 hierarchy.
+- Descriptive image alt text.
+- SEO-friendly section headings.
+- Open Graph metadata.
+- Favicon using the company logo.
+- Canonical URL only when an actual website domain is supplied.
+- LocalBusiness or GeneralContractor structured data where appropriate.
+- Appropriate internal anchor links.
+- Descriptive page title and metadata.
+
+Do not invent a website domain, business address, or additional business contact information.
+
+Use Nigerian English conventions and Nigerian Naira currency formatting if any prices are eventually introduced.
+
+Do not display prices because no pricing information has been supplied.
+
+---
+
+# PART 9: TECHNICAL IMPLEMENTATION
+
+Build the website using the existing Google AI Studio project environment and its supported framework.
+
+Before implementation:
+
+1. Inspect the existing project structure.
+2. Identify the framework and available dependencies.
+3. Inspect both uploaded archives.
+4. Extract and organise the supplied images and documents.
+5. Review the reference screenshot.
+6. Establish the visual design system.
+7. Plan the component structure.
+
+Then implement the complete website.
+
+Use reusable components for:
+
+- Navigation.
+- Hero.
+- About.
+- Services.
+- Project gallery.
+- Why Choose Us.
+- Process timeline.
+- Registration credentials.
+- Service areas.
+- Testimonials.
+- Contact form.
+- Footer.
+- Image lightbox.
+- Certificate viewer.
+
+Technical quality requirements:
+
+- Clean, maintainable code.
+- Reusable components.
+- Proper image handling.
+- Responsive CSS.
+- Accessible controls.
+- Semantic markup.
+- Optimised assets.
+- No broken image references.
+- No unnecessary dependencies.
+- No console errors.
+- No placeholder content.
+- No unfinished sections.
+
+Do not rewrite or remove working existing project functionality unnecessarily.
+
+Do not stop after creating a homepage mockup.
+
+Build all the sections and connect their interactions.
+
+---
+
+# PART 10: PERFORMANCE AND QUALITY ASSURANCE
+
+Before considering the project complete, conduct a comprehensive review.
+
+### Visual quality
+
+- Confirm the original logo is displayed correctly.
+- Confirm the colour system matches the DAQEN brand.
+- Confirm the reference website's visual inspiration is reflected in the design.
+- Confirm all sections have consistent spacing and typography.
+- Confirm the website looks premium rather than template-generated.
+- Confirm the real project photographs are used.
+
+### Functional quality
+
+- Test every navigation link.
+- Test all CTA buttons.
+- Test the mobile menu.
+- Test all telephone links.
+- Test WhatsApp links.
+- Test email functionality.
+- Test the contact form and its fallback.
+- Test portfolio filters.
+- Test project image lightboxes.
+- Test the certificate viewer.
+- Test scrolling and back-to-top behaviour.
+
+### Responsive quality
+
+- Inspect desktop layout.
+- Inspect tablet layout.
+- Inspect smartphone layout.
+- Check for overflow.
+- Check typography and image proportions.
+- Check contact form usability.
+
+### Performance
+
+- Optimise images.
+- Use lazy loading for below-the-fold images.
+- Avoid unnecessary animation libraries.
+- Minimise layout shifts.
+- Ensure fast initial rendering.
+
+### Content accuracy
+
+Check that:
+
+- The registered company name is DAQEN LIMITED.
+- The brand name is DAQEN CONSTRUCTION.
+- The registration number is RC 9397794.
+- The actual supplied contact information is used.
+- No fake testimonials have been introduced.
+- No fabricated company statistics have been added.
+- No fictional project descriptions or client identities have been added.
+- No unsupported professional credentials have been claimed.
+
+---
+
+# PART 11: FINAL CREATIVE DIRECTION
+
+The finished website must communicate the following impression within the first few seconds:
+
+"This is a serious, professional construction and engineering company with a distinctive identity, actual project experience, and the capacity to discuss and support building development requirements."
+
+The visual quality should be comparable to a premium international architecture, construction, or engineering company website.
+
+The design must combine:
+
+- The visual sophistication of the supplied reference website.
+- The original DAQEN navy-blue and gold brand identity.
+- Authentic construction photography.
+- Strong typography.
+- Elegant content composition.
+- Professional corporate messaging.
+- Clear conversion pathways.
+
+The homepage should be visually impressive without sacrificing usability, credibility, or clarity.
+
+Do not overdesign it. Do not clutter it. Do not use generic construction website templates.
+
+Make every section feel intentionally designed.
+
+## FINAL EXECUTION INSTRUCTION
+
+NOW BUILD THE COMPLETE DAQEN CONSTRUCTION WEBSITE.
+
+Start by inspecting both uploaded ZIP archives and all their contents.
+
+Use the original logo, flyer, CAC certificate, reference website screenshot, and all suitable authentic project photographs.
+
+Implement the full one-page, multi-section website with the complete visual design, content, responsive layouts, and working interactions described above.
+
+Do not return another proposal or merely explain how you would build it.
+
+Do not ask me to manually recreate the design.
+
+Do not use placeholder images when the supplied assets are available.
+
+Make the best professional design decisions independently, while respecting all the company information and brand guidelines supplied.
+
+The expected result is a complete, polished, premium, functional website for DAQEN CONSTRUCTION, ready for final content verification and deployment.

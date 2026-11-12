@@ -1,0 +1,6 @@
+{
+  "name": "Daqen Construction",
+  "description": "Official website for Daqen Construction (DAQEN LIMITED, RC 9397794). Professional building construction, civil engineering, structural drawings, and property development in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
